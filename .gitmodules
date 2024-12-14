@@ -1,0 +1,3 @@
+[submodule "sentence_extractor"]
+	path = sentence_extractor
+	url = https://github.com/christine-ni/sentence_extractor
